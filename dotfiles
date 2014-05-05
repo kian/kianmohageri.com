@@ -1,0 +1,14 @@
+#!/bin/sh
+
+set -e
+
+sudo apt-get -yy -q install zsh curl git
+
+echo 'installing dotfiles'
+git clone https://github.com/kian/dotfiles.git .dotfiles
+cd .dotfiles
+script/bootstrap
+
+cd ..
+echo 'installing oh-my-zsh'
+curl -L http://install.ohmyz.sh | zsh
