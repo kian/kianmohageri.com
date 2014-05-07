@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/kian
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kianmohageri.com
+  * I am kian (https://keybase.io/kian) on keybase.
+  * I have a public key with fingerprint C2C9 5CA4 7A06 D3E5 305E  9391 68DD 9D24 7C8E A90C
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.3.2"
+        },
+        "key": {
+            "fingerprint": "c2c95ca47a06d3e5305e939168dd9d247c8ea90c",
+            "host": "keybase.io",
+            "key_id": "68DD9D247C8EA90C",
+            "uid": "f42128b2d00123f61235015cca18b300",
+            "username": "kian"
+        },
+        "merkle_root": {
+            "ctime": 1399496176,
+            "hash": "d579434fa79be4cc917dc4a1a82325e759c9d56617a5bdf060c4504a19e501361e53d5b3358cfc0b8c273071406d0e8b9f31e9bd533f0f3661ae7c46385f3d31",
+            "seqno": 5683
+        },
+        "service": {
+            "hostname": "kianmohageri.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399496332,
+    "expire_in": 157680000,
+    "prev": "346d7d1ae7368a65a4914517c2a00d853e16a8579ce85b3fa4358db2c0b11ea4",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVUk1rFTEUndYPUCpYROjCRR0EEcojmZtkkrcoSKt/wL2PfNzpm7Zv5jkz/XjU
+0pWgIOJaUepShC78G666FYrYhdB/4c3DYptFSHLPPTnnJO9vXUlm54cnnx68fPd1
+bubHmUuerX9+u5e6OkzS/l7qN0usuriq7AjTfrqBE2db7JX1YlUH7K23i/8wS+k2
+Nm1ZV4RiPehl6f5ShMfmoqzWsBk3ZeRKfeaN9FbklqkAKIFJNGC40iGYkInca7SG
+eaIc1m136dZ0yjkoA50qvbpqVgm/op88NmyFalvTQiEynmmXBcZ4BoWiSTIuvbdc
+O2AsAltszi2VtopaR9hsbOKgqeupYd+VsczBGGEUzxWpse2QGoLMjQBR2Nw4FN4b
+ngcvLLc6g0xiLo03QSrqsdKFginmhWQEMEgyQHGyHKQDkNoXnjntsxxYzgXFwVA7
+UwBH44IEKFgBRGQx90KBlgUE4CS/xRdVnfal0rAfd8126TGqjoFd8DWqh5aSL3u+
+HlHbuKm72tebVB123bgfbXeTcUTvoBu0+G1KNHBlFejJLr4pJ+jlSACypRR3x2WD
+gzIiZK40oxHvwW3iBKFCHqJ6UNoqaYXhQvLcZ5axoCUgV1ZTmh415VFYQZEEl1Em
+nKMV/40C6bRrRNmWa5XtthpM918/vZrMzybXr83GP5vcvHH7/COffk8Ov5itg4Nj
+f7J7uvD81XLv3q+PP/8khx+WH87MwcLRo7Pjo4039+/cnfye+Qs=
+=hAdK
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kian
+
+==================================================================
